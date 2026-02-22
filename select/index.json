@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "COLORS (2024 Mix)",
+  "base_track": "COLORS",
   "base_artist": "宇多田ヒカル",
-  "createdAt": "2026-01-08T14:11:12.558616Z",
+  "createdAt": "2026-02-22T12:57:39.809079Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "True Colors",
-      "artist": "Zedd",
+      "title": "Coat of Many Colors",
+      "artist": "Dolly Parton",
       "has_synced": true,
-      "path": "select/01_True_Colors_Zedd.lrc"
+      "path": "select/01_Coat_of_Many_Colors_Dolly_Parton.lrc"
     },
     {
       "id": "lrclib_2",
@@ -24,25 +24,25 @@
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "Coat of Many Colors",
-      "artist": "Dolly Parton",
-      "has_synced": true,
-      "path": "select/03_Coat_of_Many_Colors_Dolly_Parton.lrc"
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/03_Coat_of_Many_Colors_Emmylou_Harris.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Coat of Many Colors",
+      "title": "Coat of Many Colors (Remastered LP Version)",
       "artist": "Emmylou Harris",
       "has_synced": false,
-      "path": "select/04_Coat_of_Many_Colors_Emmylou_Harris.txt"
+      "path": "select/04_Coat_of_Many_Colors_(Remastered_LP_Version)_Emmylou_Harris.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Coat of Many Colors (Remastered LP Version)",
-      "artist": "Emmylou Harris",
-      "has_synced": false,
-      "path": "select/05_Coat_of_Many_Colors_(Remastered_LP_Version)_Emmylou_Harris.txt"
+      "title": "True Colors",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/05_True_Colors_Zedd.lrc"
     },
     {
       "id": "lrclib_6",
